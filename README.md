@@ -38,6 +38,7 @@ POLYGON 0.5 0.2 0.75 0.3 0.65 0.6 0.35 0.6 0.23 0.3
 ![Undo History Support](Captures/cab302_3.PNG)
 
 ## Authors
+[@benjaminbrewerton](https://github.com/benjaminbrewerton)
 [@phoebelestrange99](https://github.com/phoebelestrange99)
 [@g4brie11e](https://github.com/g4brie11e)
 
